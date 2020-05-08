@@ -1,0 +1,5 @@
+rootProject.name = '17-214 Homework 4'
+javafx {
+    version = "11.0.2"
+    modules = [ 'javafx.util' ]
+}
