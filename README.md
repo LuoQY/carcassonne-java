@@ -1,8 +1,8 @@
-Carcassonne in Java
+# Carcassonne in Java
 
 This is a course project for 17-214. It is a Java implementation of the game Carcassonne. The rules of this game can be found in the rules.pdf. The program is built in Gradle so you can run it by importing to IntelliJ with Gradle.
 
-Here are the steps when playing the game:
+### Here are the steps when playing the game:
 
 1.	When running the program, a start window should show up asking users to enter the number of players, so the first step is to input a number between 2 to 5. If users give illegal input, there would be an error message.
 2.	Enter the game board window. Click “start game!” button to start the game. On the left side, users can see the order of players, the colors assigned to each player and the number of meeples owned by each player.
